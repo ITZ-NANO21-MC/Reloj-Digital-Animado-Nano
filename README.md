@@ -31,7 +31,7 @@ Un reloj digital moderno que muestra la hora en tiempo real con animaciones CSS 
 ## Instalación y uso
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/ITZ-NANO21-MC/Reloj-Digital-Analogico-Nano
+git clone https://github.com/ITZ-NANO21-MC/Reloj-Digital-Animado-Nano.git
 ```
 
 2. Abre el archivo `index.html` en cualquier navegador moderno
